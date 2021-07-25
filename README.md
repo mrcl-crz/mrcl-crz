@@ -1,4 +1,4 @@
-###  Olá! Eu sou o Marcelo Cruz <img align="center" alt="miranha" height="60" width="80" src="https://media1.giphy.com/media/eNSP7RDZeV3rSkNVXZ/source.gif">
+###  Olá! Eu sou o Marcelo Cruz <img align="center" alt="miranha" height="60" width="80" src="https://i.gifer.com/KLuL.gif">
 <a href="https://github.com/mrcl-crz
 ">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrcl-crz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
