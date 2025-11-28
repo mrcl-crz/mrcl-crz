@@ -4,7 +4,7 @@ Sou **Analista de Dados** com experiência profissional no setor de educação, 
 
 ### 🛠️ Habilidades Técnicas
 
-Minhas principais ferramentas e linguagens de trabalho são:
+Minhas principais ferramentas e linguagens são:
 
   * **Linguagens:** Python, SQL, e R.
   * **Visualização:** Power BI, Looker, QuickSight e Qlik.
