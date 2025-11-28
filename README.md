@@ -28,5 +28,5 @@ Sou Bacharel em Ciência da Computação e estou cursando Pós-Graduação em Da
 
 | **Portfólio**                                                        | **LinkedIn**                                             | **E-mail**              |
 | :------------------------------------------------------------------: | :------------------------------------------------------: | :---------------------: |
-| [mrcl-crz.github.io/my-porftolio/](mrcl-crz.github.io/my-porftolio/) | [linkedin.com/in/marcelocrz](linkedin.com/in/marcelocrz) | marcelocrz.ds@gmail.com |
+| [mrcl-crz.github.io/my-porftolio/](https://mrcl-crz.github.io/my-porftolio/) | [linkedin.com/in/marcelocrz](https://www.linkedin.com/in/marcelocrz/) | marcelocrz.ds@gmail.com |
 
