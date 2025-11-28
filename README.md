@@ -2,7 +2,7 @@
 
 Sou **Analista de Dados** com experiência profissional no setor de educação, atuando na maior Edtech da América Latina.
 
-### 🛠️ Habilidades Técnicas Principais
+### 🛠️ Habilidades Técnicas
 
 Minhas principais ferramentas e linguagens de trabalho são:
 
