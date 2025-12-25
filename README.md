@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcelo Cruz 👋
+## Olá! Eu sou o Marcelo Cruz 👋
 
 **Analista de Dados** com experiência no setor de educação, atuando na Alura, a maior Edtech da América Latina, no desenvolvimento de soluções de **Business Intelligence** e **Engenharia de Dados**.
 
