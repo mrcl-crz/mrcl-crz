@@ -1,6 +1,6 @@
 ## Olá, eu sou o Marcelo Cruz 👋
 
-Sou **Analista de Dados** com experiência profissional no setor de educação, atuando na maior Edtech da América Latina.
+**Analista de Dados** com experiência no setor de educação, atuando na Alura, a maior Edtech da América Latina, no desenvolvimento de soluções de **Business Intelligence** e **Engenharia de Dados**.
 
 ### 🛠️ Habilidades Técnicas
 
@@ -8,17 +8,16 @@ Minhas principais ferramentas e linguagens são:
 
   * **Linguagens:** Python, SQL, e R.
   * **Visualização:** Power BI, Looker, QuickSight e Qlik.
-  * **Banco de Dados:** MySQL, SQL Server, Oracle DB e SQLite.
+  * **Banco de Dados:** PostgreSQL, MySQL, SQL Server e Oracle DB.
   * **Cloud (AWS):** Experiência com AWS Data Lake, Amazon Athena, AWS Glue e projetos de ETL.
 
 ### 💼 Experiência profissional
 
-Atuei como Instrutor e Monitor de Dados, onde minhas responsabilidades eram:
+Experiência profissional com destaque em:
 
-  * Desenvolvimento de cursos, projetos e atividades sobre tecnologias de dados (Power BI, SQL, Python, R, QuickSight e Google Cloud).
-  * Criação de métricas de negócio usando Power BI e linguagem DAX.
-  * Auxílio e esclarecimento de dúvidas sobre Análise, Ciência e Engenharia de Dados.
-  * Criação de projetos com ETL completo.
+* **Visualização de Dados:** Desenvolvimento de dashboards interativos e criação de métricas de negócio complexas utilizando Power BI e linguagem DAX.
+* **Engenharia de Dados:** Criação de pipelines de ETL completos e estruturação de Data Warehouses para garantir a integridade dos dados.
+* **Educação e Comunicação:** Criação e gravação de cursos técnicos sobre Power BI, SQL, Python, R, QuickSight e AWS, traduzindo conceitos complexos para diferentes públicos.
 
 ### 🎓 Formação
 
