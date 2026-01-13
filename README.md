@@ -8,7 +8,7 @@ Minhas principais ferramentas e linguagens são:
 
   * **Linguagens:** Python, SQL, e R.
   * **Visualização:** Power BI, Looker, QuickSight e Qlik.
-  * **Banco de Dados:** PostgreSQL, MySQL, SQL Server e Oracle DB.
+  * **Banco de Dados:** PostgreSQL e MySQL.
   * **Cloud (AWS):** Experiência com AWS Data Lake, Amazon Athena, AWS Glue e projetos de ETL.
 
 ### 💼 Experiência profissional
